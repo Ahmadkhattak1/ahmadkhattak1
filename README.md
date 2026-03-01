@@ -1,40 +1,34 @@
 # Hi, I’m Ahmad 👋
 
-I build fast, practical software — focused on shipping real products. 
+I build fast, practical software focused on shipping real products. 
 
 I like building tools that simplify workflows and automate boring stuff. 
 - 🚀 Founder & Builder  
 - 🧠 Interested in automation, SaaS, AI tools & product design, and the cloud
 
----
 
-## 🚀 Current Projects
+## Current Projects
 
 ### 🦞 ClawPilot  
 Managed Openclaw platform
 → Live: https://clawpilot-web-landing.vercel.app/
 
----
 
 ### 📋 LiveBoard  
 A lightweight, real-time board for managing ideas and execution.  
 → Live: https://liveboard-zeta.vercel.app/
 
----
 
 ### 🎯 Stumbnail  
 Smart thumbnail generation & optimization tool for creators.  
 → Live: https://Stumbnail.com
 
----
 
 ## 🧩 What I Build
 - SaaS products
 - Automation systems
 - Clean, focused landing pages
 - Full-stack web applications
-
----
 
 ## 🛠️ Toolbox
 
