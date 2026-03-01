@@ -10,7 +10,7 @@ I like building tools that simplify workflows and automate boring stuff.
 ## Current Projects
 
 ### 🦞 ClawPilot  
-Managed Openclaw platform
+Managed Openclaw platform:
 → Live: https://clawpilot-web-landing.vercel.app/
 
 
