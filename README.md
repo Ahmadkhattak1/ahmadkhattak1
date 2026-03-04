@@ -13,9 +13,9 @@ I like building tools that simplify workflows and automate boring stuff.
 ![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=Figma)
 
-
-## Current Projects
+## Projects
 
 ### 🦞 ClawPilot - Managed Openclaw Hosting
 → https://clawpilot-web-landing.vercel.app/
