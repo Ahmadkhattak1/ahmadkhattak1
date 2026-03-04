@@ -3,7 +3,7 @@
 I build fast, practical software focused on shipping real products. 
 
 I like building tools that simplify workflows and automate boring stuff. 
-- 🚀 Founder & Builder  
+- 🚀 Builder  
 
 ## 🛠️ Toolbox
 
