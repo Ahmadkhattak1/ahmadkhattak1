@@ -28,11 +28,13 @@ I like building tools that simplify workflows and automate boring stuff.
 ### 🎯 Stumbnail - Thumbnail Generator
 → https://Stumbnail.com
 
+
 ### 📺 Screenchat - Chat with any page. (Extension)
-https://github.com/Ahmadkhattak1/ScreenChat
+→ https://github.com/Ahmadkhattak1/ScreenChat
+
 
 ### 🗂️ Scrapify - Google Business Profile Data Scraper (Extension)
-https://github.com/Ahmadkhattak1/scrapify-extension 
+→ https://github.com/Ahmadkhattak1/scrapify-extension 
 
 
 ## 📫 Connect
