@@ -1,6 +1,6 @@
 # Hi, I’m Ahmad 👋
 
-I build fast, practical software focused on shipping real products. 
+I’m a Software Engineer and Cloud Engineer. I build fast, practical software focused on shipping real products. 
 
 I like building tools that simplify workflows and automate boring stuff. 
 - 🚀 Builder  
@@ -14,8 +14,15 @@ I like building tools that simplify workflows and automate boring stuff.
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=Figma)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-111111?style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=flat&logo=terraform)
 
 ## Projects
+
+### ⬇️ Awesome Downloader - Open-source download manager
+A Windows download manager with browser video capture, quality selection, and parallel downloads.
+→ https://github.com/Ahmadkhattak1/awesome-downloader
+
 
 ### 🦞 ClawPilot - Managed Openclaw Hosting
 → https://clawpilot-web-landing.vercel.app/
